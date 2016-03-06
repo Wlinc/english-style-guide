@@ -26,6 +26,11 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **build and run**
 Use lowercase and do not bold.
 
+**Cocoa bindings**
+Use this plural form for a sweeping reference; avoid using bindings as a posessive, e.g. _"Keeping your UI in sync with your application data is far more efficient when you use Cocoa bindings."_  or _"Cocoa bindings save you from the snore-worthy task of writing glue code"._
+
+It is acceptable to refer to _a 'binding'_ without invoking Cocoa.
+
 **CocoaPod**
 
 **Cocos2d**
